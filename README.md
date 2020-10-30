@@ -1,1 +1,1 @@
-# quarkus-vertx-quickstart
+Quarkus guide: https://quarkus.io/guides/vertx
